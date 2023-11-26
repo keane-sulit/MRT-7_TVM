@@ -1,0 +1,13 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Keane/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 0d2b061a41a544f286ea85507b864bd2 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TicketVendingMachine_tb_behav xil_defaultlib.TicketVendingMachine_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.TicketVendingMachine
+Compiling module xil_defaultlib.TicketVendingMachine_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TicketVendingMachine_tb_behav

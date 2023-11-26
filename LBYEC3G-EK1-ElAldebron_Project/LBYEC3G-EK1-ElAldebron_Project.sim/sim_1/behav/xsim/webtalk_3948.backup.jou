@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Nov 27 02:31:05 2023
+# Process ID: 3948
+# Current directory: C:/Users/Reane Sai Sulit/Documents/GitHub/MRT-7_TVM/LBYEC3G-EK1-ElAldebron_Project/LBYEC3G-EK1-ElAldebron_Project.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Reane Sai Sulit/Documents/GitHub/MRT-7_TVM/LBYEC3G-EK1-ElAldebron_Project/LBYEC3G-EK1-ElAldebron_Project.sim/sim_1/behav/xsim/xsim.dir/TicketVendingMachine_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Reane Sai Sulit/Documents/GitHub/MRT-7_TVM/LBYEC3G-EK1-ElAldebron_Project/LBYEC3G-EK1-ElAldebron_Project.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Reane Sai Sulit/Documents/GitHub/MRT-7_TVM/LBYEC3G-EK1-ElAldebron_Project/LBYEC3G-EK1-ElAldebron_Project.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Reane -notrace
